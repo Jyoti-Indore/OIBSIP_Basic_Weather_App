@@ -1,4 +1,4 @@
-# 🌦️ Command-Line Weather App
+# 🌦️ Basic Weather App
 
 ## 🔖 Oasis Infobyte Internship – Task 3
 
